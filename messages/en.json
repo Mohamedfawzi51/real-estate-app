@@ -1,0 +1,433 @@
+{
+  "metadata": {
+    "title": "Luxury Estate | Premium Properties",
+    "description": "Your trusted platform for the finest properties in the Middle East"
+  },
+  "nav": {
+    "brand": "Luxury Estate",
+    "buy": "Buy",
+    "rent": "Rent",
+    "sell": "Sell",
+    "login": "Login",
+    "join": "Join",
+    "arabic": "العربية",
+    "english": "English",
+    "menuLabel": "Navigation",
+    "menuSubtitle": "Explore luxury living",
+    "searchProperties": "Search Properties"
+  },
+  "hero": {
+    "title": "Find Your Dream Home in the Heart of Luxury",
+    "subtitle": "We offer you an exclusive collection of the most distinguished properties in the region, where modern architecture meets absolute comfort.",
+    "buy": "Buy",
+    "rent": "Rent",
+    "locationPlaceholder": "City, neighborhood, or building name",
+    "propertyType": "Property Type",
+    "search": "Search",
+    "propertyTypes": {
+      "villa": "Villa",
+      "apartment": "Apartment",
+      "office": "Office"
+    }
+  },
+  "featured": {
+    "label": "Featured Properties",
+    "title": "Latest Luxury Units",
+    "viewAll": "View All",
+    "properties": [
+      {
+        "name": "One Ultra Penthouse",
+        "location": "Downtown, Dubai",
+        "price": "$4,500,000",
+        "beds": "4",
+        "baths": "5",
+        "sqft": "4,200 sf"
+      },
+      {
+        "name": "Royal Ruby Villa",
+        "location": "Al Nakheel, Riyadh",
+        "price": "$2,850,000",
+        "beds": "6",
+        "baths": "7",
+        "sqft": "6,500 sf"
+      },
+      {
+        "name": "Gulf Pearl Palace",
+        "location": "The Pearl, Doha",
+        "price": "$5,200,000",
+        "beds": "5",
+        "baths": "6",
+        "sqft": "5,800 sf"
+      }
+    ]
+  },
+  "locations": {
+    "label": "Featured Destinations",
+    "title": "Our Most Popular Destinations",
+    "subtitle": "Explore properties in the best strategic locations and the most vibrant cities in the region.",
+    "explore": "Explore",
+    "exploreAll": "View All Destinations",
+    "cities": {
+      "dubai": { "name": "Dubai", "count": "1,240 properties" },
+      "riyadh": { "name": "Riyadh", "count": "850 properties" },
+      "doha": { "name": "Doha", "count": "420 properties" },
+      "abu-dhabi": { "name": "Abu Dhabi", "count": "610 properties" }
+    }
+  },
+  "categories": {
+    "title": "Browse by Category",
+    "items": [
+      { "name": "Luxury Apartments" },
+      { "name": "Royal Villas" },
+      { "name": "Executive Offices" },
+      { "name": "Investment Land" }
+    ]
+  },
+  "whyUs": {
+    "label": "Why Luxury Estate?",
+    "title": "We Don't Just Sell Properties, We Create Exceptional Experiences",
+    "description": "Our expertise spanning over two decades in the luxury real estate market makes us the ideal partner for your journey in search of excellence and exclusivity.",
+    "features": [
+      {
+        "title": "Verified Properties",
+        "description": "All listed properties undergo a rigorous verification process to ensure credibility."
+      },
+      {
+        "title": "24/7 Support",
+        "description": "A dedicated team of real estate consultants is available to serve you at any time."
+      }
+    ]
+  },
+  "blog": {
+    "title": "Real Estate Insights",
+    "subtitle": "Follow the latest developments and analyses in the luxury real estate market.",
+    "posts": [
+      {
+        "category": "Market Analysis",
+        "title": "The Future of Real Estate Investment in Dubai 2025",
+        "excerpt": "A close look at the factors that will drive growth in the luxury real estate market..."
+      },
+      {
+        "category": "Design & Decor",
+        "title": "Top 5 Interior Design Trends This Year",
+        "excerpt": "How to balance luxury and functionality in your new home space..."
+      },
+      {
+        "category": "Technology",
+        "title": "The Impact of Smart Homes on Property Values",
+        "excerpt": "Why investors prefer properties equipped with the latest automation systems..."
+      }
+    ]
+  },
+  "footer": {
+    "description": "Your trusted platform for accessing the finest properties in the Middle East. We combine technology and expertise to serve you.",
+    "quickLinks": "Quick Links",
+    "legal": "Legal",
+    "newsletter": "Newsletter",
+    "newsletterDesc": "Subscribe to receive the latest exclusive properties.",
+    "emailPlaceholder": "Email address",
+    "subscribe": "Subscribe Now",
+    "subscribeSuccess": "Subscribed successfully! You'll receive exclusive listings soon.",
+    "links": {
+      "about": "About Us",
+      "contact": "Contact Us",
+      "guide": "Property Guide",
+      "faq": "FAQ",
+      "privacy": "Privacy Policy",
+      "terms": "Terms of Service",
+      "disclaimer": "Disclaimer"
+    },
+    "copyright": "© 2024 Luxury Estate platform. All rights reserved.",
+    "tagline": "Proudly crafted for excellence"
+  },
+  "auth": {
+    "metadata": {
+      "title": "Sign In | Luxury Estate",
+      "description": "Join the luxury real estate platform"
+    },
+    "loginTitle": "Welcome Back",
+    "loginSubtitle": "Sign in to access exclusive properties",
+    "signupTitle": "Join the Elite",
+    "signupSubtitle": "Start your real estate journey in a world of luxury",
+    "loginTab": "Sign In",
+    "signupTab": "Create Account",
+    "email": "Email Address",
+    "password": "Password",
+    "remember": "Remember me",
+    "forgot": "Forgot password?",
+    "orContinue": "Or continue with",
+    "otpTitle": "Verify Your Identity",
+    "otpSubtitle": "We sent a verification code to your email",
+    "verify": "Verify Now",
+    "resendPrompt": "Didn't receive the code?",
+    "resend": "Resend",
+    "resendToast": "A new code has been sent to your email",
+    "successToast": "Verified successfully! Welcome to Luxury Estate",
+    "socialToast": "Social login — demo preview",
+    "terms": "Terms & Conditions",
+    "privacy": "Privacy Policy",
+    "help": "Help",
+    "testimonial": "Finding my dream home with Luxury Estate was exceptional. Their professionalism and attention to detail made the purchase a journey, not just a transaction.",
+    "testimonialAuthor": "Ahmed Al-Hashimi",
+    "testimonialRole": "Elite Client",
+    "roleLabel": "Choose your account type",
+    "roles": {
+      "buyer": "Buyer",
+      "owner": "Owner",
+      "agent": "Agent"
+    }
+  },
+  "listings": {
+    "empty": "No properties match your search at the moment.",
+    "buyTitle": "Properties for Sale",
+    "rentTitle": "Properties for Rent",
+    "allTitle": "All Properties",
+    "items": {
+      "ultra-modern-villa-palm-jumeirah": {
+        "name": "Ultra Modern Villa in Palm Jumeirah",
+        "location": "Palm Jumeirah, Dubai",
+        "price": "AED 25,500,000",
+        "beds": "6",
+        "baths": "7",
+        "area": "8,500 sq ft"
+      },
+      "marina-penthouse": {
+        "name": "Luxury Penthouse in Dubai Marina",
+        "location": "Dubai Marina",
+        "price": "AED 18,000,000",
+        "beds": "4",
+        "baths": "5",
+        "area": "4,200 sq ft"
+      },
+      "al-barari-villa": {
+        "name": "Royal Villa in Al Barari",
+        "location": "Al Barari, Dubai",
+        "price": "AED 22,400,000",
+        "beds": "5",
+        "baths": "6",
+        "area": "7,800 sq ft"
+      },
+      "emirates-hills-palace": {
+        "name": "Modern Palace in Emirates Hills",
+        "location": "Emirates Hills",
+        "price": "AED 31,000,000",
+        "beds": "7",
+        "baths": "8",
+        "area": "12,000 sq ft"
+      },
+      "riyadh-ruby-villa": {
+        "name": "Royal Ruby Villa",
+        "location": "Al Nakheel, Riyadh",
+        "price": "AED 2,850,000",
+        "beds": "6",
+        "baths": "7",
+        "area": "6,500 sq ft"
+      },
+      "doha-pearl-palace": {
+        "name": "Gulf Pearl Palace",
+        "location": "The Pearl, Doha",
+        "price": "AED 5,200,000",
+        "beds": "5",
+        "baths": "6",
+        "area": "5,800 sq ft"
+      }
+    }
+  },
+  "pages": {
+    "about": {
+      "title": "About Us",
+      "subtitle": "The leading luxury real estate platform in the Middle East",
+      "content": "At Luxury Estate, we combine advanced technology with deep real estate expertise to deliver an exceptional experience for our elite clients. For over two decades, we've connected buyers and sellers with the finest properties in the region."
+    },
+    "contact": {
+      "title": "Contact Us",
+      "subtitle": "Our team is ready to assist you 24/7",
+      "name": "Name",
+      "email": "Email",
+      "message": "Message",
+      "send": "Send Message",
+      "success": "Your message has been sent successfully!"
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "subtitle": "Answers to the most common questions"
+    },
+    "guide": {
+      "title": "Property Guide",
+      "subtitle": "Everything you need to know about buying and selling luxury real estate"
+    },
+    "privacy": {
+      "title": "Privacy Policy",
+      "subtitle": "How we protect your personal data"
+    },
+    "terms": {
+      "title": "Terms of Service",
+      "subtitle": "Terms and conditions for using the platform"
+    },
+    "disclaimer": {
+      "title": "Disclaimer",
+      "subtitle": "Important legal information"
+    },
+    "sell": {
+      "title": "Sell Your Property",
+      "subtitle": "List your property on our elite buyer network",
+      "cta": "Contact an Advisor",
+      "success": "Request received! An advisor will contact you soon.",
+      "propertyTitle": "Property title",
+      "propertyType": "Property type",
+      "propertyTypes": {
+        "villa": "Villa",
+        "apartment": "Apartment",
+        "penthouse": "Penthouse",
+        "land": "Land"
+      },
+      "location": "Location / City",
+      "price": "Expected price",
+      "email": "Email address",
+      "phone": "Phone number",
+      "details": "Property details",
+      "benefit1Title": "Elite buyer network",
+      "benefit1Desc": "Reach verified high-net-worth buyers across the Gulf region.",
+      "benefit2Title": "Dedicated advisor",
+      "benefit2Desc": "A luxury property specialist guides you from listing to closing.",
+      "benefit3Title": "Premium presentation",
+      "benefit3Desc": "Professional photography, staging advice, and curated marketing.",
+      "stepsTitle": "How it works",
+      "step1": "Submit your property details",
+      "step2": "Advisor reviews and prepares listing",
+      "step3": "Connect with qualified buyers"
+    },
+    "location": {
+      "subtitle": "Discover the finest properties in this destination"
+    },
+    "category": {
+      "subtitle": "Browse our exclusive collection in this category"
+    },
+    "blog": {
+      "readMore": "Read More",
+      "back": "Back to Home"
+    }
+  },
+  "propertyDetail": {
+    "metadata": {
+      "title": "Ultra Modern Villa in Palm Jumeirah | Luxury Estate",
+      "description": "Luxury villa in Palm Jumeirah, Dubai — 6 bedrooms, 7 bathrooms, private pool and stunning Dubai skyline views."
+    },
+    "videoTour": "Video Tour",
+    "tour360": "360° Tour",
+    "morePhotos": "+15 Photos",
+    "title": "Ultra Modern Villa in Palm Jumeirah",
+    "location": "Palm Jumeirah, Dubai, United Arab Emirates",
+    "priceLabel": "Price on Request",
+    "price": "AED 25,500,000",
+    "features": {
+      "area": { "label": "Area", "value": "8,500 sq ft" },
+      "beds": { "label": "Bedrooms", "value": "6 Bedrooms" },
+      "baths": { "label": "Bathrooms", "value": "7 Bathrooms" },
+      "parking": { "label": "Parking", "value": "4 Spaces" }
+    },
+    "description": {
+      "title": "Description",
+      "p1": "We present an exceptional architectural masterpiece in the heart of Palm Jumeirah. This villa features a contemporary design that blends luxury with privacy, offering breathtaking views of the Dubai skyline and the Arabian Gulf. The finest global materials were used in the finishes, from premium Italian marble to smart lighting systems.",
+      "p2": "The villa includes spacious living areas, a fully equipped kitchen with the latest appliances, and a master suite spanning an entire floor. A private garden and infinity pool area provide a world-class resort experience in your own home."
+    },
+    "amenities": {
+      "title": "Amenities & Services",
+      "items": [
+        "Private Pool",
+        "Gym",
+        "24/7 Security",
+        "Smart Home System",
+        "Landscaped Garden",
+        "Covered Garage"
+      ]
+    },
+    "locationSection": {
+      "title": "Location",
+      "mapLabel": "Palm Jumeirah, Dubai",
+      "schools": {
+        "title": "Nearby Schools",
+        "items": [
+          { "name": "Choueifat International School", "time": "10 min" },
+          { "name": "American Academy Dubai", "time": "15 min" }
+        ]
+      },
+      "healthcare": {
+        "title": "Healthcare",
+        "items": [
+          { "name": "Al Zahra Hospital Dubai", "time": "12 min" },
+          { "name": "Aster Clinic", "time": "8 min" }
+        ]
+      }
+    },
+    "mortgage": {
+      "title": "Mortgage Calculator",
+      "priceLabel": "Property Price (AED)",
+      "downPaymentLabel": "Down Payment (%)",
+      "termLabel": "Loan Term (Years)",
+      "terms": ["25 Years", "20 Years", "15 Years"],
+      "monthlyLabel": "Estimated Monthly Payment",
+      "monthlySuffix": "AED",
+      "cta": "Get Pre-Approved"
+    },
+    "agent": {
+      "name": "Ahmed Mansour",
+      "title": "Certified Agent - Elite Category",
+      "callNow": "Call Now",
+      "whatsapp": "WhatsApp",
+      "formTitle": "Request a Viewing Appointment",
+      "namePlaceholder": "Full Name",
+      "emailPlaceholder": "Email Address",
+      "phonePlaceholder": "Phone Number",
+      "messagePlaceholder": "Your Message (optional)",
+      "submit": "Submit Request",
+      "verifiedTitle": "Verified Property",
+      "verifiedDesc": "All data for this property has been verified by Luxury Estate"
+    },
+    "similar": {
+      "title": "Similar Properties You May Like",
+      "viewAll": "View All",
+      "properties": [
+        {
+          "name": "Luxury Penthouse in Dubai Marina",
+          "location": "Dubai Marina",
+          "price": "AED 18,000,000",
+          "beds": "4",
+          "baths": "5",
+          "area": "4,200 sq ft"
+        },
+        {
+          "name": "Royal Villa in Al Barari",
+          "location": "Al Barari, Dubai",
+          "price": "AED 22,400,000",
+          "beds": "5",
+          "baths": "6",
+          "area": "7,800 sq ft"
+        },
+        {
+          "name": "Modern Palace in Emirates Hills",
+          "location": "Emirates Hills",
+          "price": "AED 31,000,000",
+          "beds": "7",
+          "baths": "8",
+          "area": "12,000 sq ft"
+        }
+      ]
+    },
+    "detailFooter": {
+      "description": "The leading platform for luxury real estate in the Middle East. We combine architectural excellence with exclusive service.",
+      "quickLinks": "Quick Links",
+      "legal": "Legal",
+      "newsletter": "Subscribe to Newsletter",
+      "emailPlaceholder": "Your email",
+      "copyright": "© 2024 Luxury Estate. All rights reserved.",
+      "links": {
+        "about": "About Us",
+        "contact": "Contact Us",
+        "guide": "Property Guide",
+        "privacy": "Privacy Policy",
+        "terms": "Terms of Service"
+      }
+    }
+  }
+}
